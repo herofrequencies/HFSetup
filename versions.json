@@ -1,0 +1,12 @@
+{
+  "preset-manager": {
+    "version": "1.0.2.0",
+    "url": "https://github.com/herofrequencies/HFSetup/releases/download/v1.0.2/HeroFrequenciesPresetManagerSetup.exe",
+    "notes": "Hero Frequencies Preset Manager + mintserver installer"
+  },
+  "mintserver": {
+    "version": "0.1.241",
+    "url": "https://github.com/herofrequencies/HFSetup/releases/download/mintserver-0.1.241/mintserver.exe",
+    "notes": ""
+  }
+}
