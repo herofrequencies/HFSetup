@@ -20,8 +20,8 @@ When staging a new build:
 ```json
 {
   "preset-manager": {
-    "version": "1.0.2.0",
-    "url": "https://github.com/herofrequencies/HFSetup/releases/download/v1.0.2/HeroFrequenciesPresetManagerSetup.exe",
+    "version": "1.0.0.0",
+    "url": "https://github.com/herofrequencies/HFSetup/raw/main/PresetManager/HeroFrequenciesPresetManagerSetup.exe",
     "notes": "Optional one-line summary"
   },
   "mintserver": {
