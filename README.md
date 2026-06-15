@@ -6,7 +6,7 @@ Running **Preset Manager** and **mintserver** check this repo for updates via [`
 
 ## Preset Manager
 
-**[Download HeroFrequenciesPresetManagerSetup.exe](https://github.com/herofrequencies/HFSetup/releases/download/v1.0.0.0/HeroFrequenciesPresetManagerSetup.exe)** ([release notes](https://github.com/herofrequencies/HFSetup/releases/tag/v1.0.0.0))
+**[Download HeroFrequenciesPresetManagerSetup.exe](https://github.com/herofrequencies/HFSetup/releases/download/v1.0.0.1/HeroFrequenciesPresetManagerSetup.exe)** ([release notes](https://github.com/herofrequencies/HFSetup/releases/tag/v1.0.0.1))
 
 Setup for Hero Frequencies Preset Manager and the mintserver device service (`HeroMintServer`).
 
@@ -20,8 +20,8 @@ When staging a new build:
 ```json
 {
   "preset-manager": {
-    "version": "1.0.0.0",
-    "url": "https://github.com/herofrequencies/HFSetup/releases/download/v1.0.0.0/HeroFrequenciesPresetManagerSetup.exe",
+    "version": "1.0.0.1",
+    "url": "https://github.com/herofrequencies/HFSetup/releases/download/v1.0.0.1/HeroFrequenciesPresetManagerSetup.exe",
     "notes": "Optional one-line summary"
   },
   "mintserver": {

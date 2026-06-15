@@ -1,8 +1,8 @@
 {
   "preset-manager": {
-    "version": "1.0.0.0",
-    "url": "https://github.com/herofrequencies/HFSetup/releases/download/v1.0.0.0/HeroFrequenciesPresetManagerSetup.exe",
-    "notes": "Hero Frequencies Preset Manager + mintserver installer with bundled genome.db"
+    "version": "1.0.0.1",
+    "url": "https://github.com/herofrequencies/HFSetup/releases/download/v1.0.0.1/HeroFrequenciesPresetManagerSetup.exe",
+    "notes": "Fix mintserver DNA RLU analysis on Windows (64-bit sqlite3-x64.dll for mintserver)"
   },
   "mintserver": {
     "version": "0.1.241",
