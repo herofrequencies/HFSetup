@@ -1,0 +1,15 @@
+﻿{
+    "defaultId":  "standard",
+    "catalog":  [
+                    {
+                        "id":  "standard",
+                        "name":  "Standard pathogen library",
+                        "version":  "2026.06.1",
+                        "description":  "Curated NCBI nucleotide queries with native DNA/SP frequencies. Recommended for most installations.",
+                        "url":  "https://github.com/herofrequencies/HFSetup/releases/download/genome-2026.06.1/genome-standard.db",
+                        "sizeBytes":  108576768,
+                        "sha256":  "7065124fa87d3a432bc0ac70cdfd9c7d5679e97eee879f08657eb931bd0beb1b",
+                        "minPresetManagerVersion":  "1.0.0.0"
+                    }
+                ]
+}
