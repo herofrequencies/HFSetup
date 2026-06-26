@@ -1,12 +1,12 @@
-{
-  "preset-manager": {
-    "version": "1.0.0.1",
-    "url": "https://github.com/herofrequencies/HFSetup/releases/download/v1.0.0.1/HeroFrequenciesPresetManagerSetup.exe",
-    "notes": "Fix mintserver DNA RLU analysis on Windows (64-bit sqlite3-x64.dll for mintserver)"
-  },
-  "mintserver": {
-    "version": "0.1.241",
-    "url": "https://github.com/herofrequencies/HFSetup/releases/download/mintserver-0.1.241/mintserver.exe",
-    "notes": ""
-  }
+﻿{
+    "preset-manager":  {
+                           "version":  "1.0.0.2",
+                           "url":  "https://github.com/herofrequencies/HFSetup/releases/download/v1.0.0.2/HeroFrequenciesPresetManagerSetup.exe",
+                           "notes":  "Add inbound TCP 8080 firewall rule so LAN clients can reach mintserver; idempotent UDP 4587 and TCP 8080 rules on install and upgrade."
+                       },
+    "mintserver":  {
+                       "version":  "0.1.241",
+                       "url":  "https://github.com/herofrequencies/HFSetup/releases/download/mintserver-0.1.241/mintserver.exe",
+                       "notes":  ""
+                   }
 }
